@@ -5,7 +5,7 @@ Originally wrote this to solve my own pain with the lack of tooltip color suppor
 
 #### Colors you can change (also in code comments)
 ```
-/// 0 COLOR_SCROLLBAR Color of the gray area of a scroll bar.
+        /// 0 COLOR_SCROLLBAR Color of the gray area of a scroll bar.
         /// 1 COLOR_BACKGROUND Background color of the desktop window.
         /// 2 COLOR_ACTIVECAPTION Color of the title bar of an active window.
         /// 3 COLOR_INACTIVECAPTION Color of the title bar of an inactive window.
